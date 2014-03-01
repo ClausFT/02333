@@ -1,0 +1,6 @@
+set archi i386:x64-32:intel
+target remote localhost:1234
+# layout asm
+# layout regs
+break _start
+
