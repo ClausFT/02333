@@ -174,7 +174,7 @@ clearrect:
  push %ecx
  push %edx
 
- call drawchar
+ call drawchar			#Sun routine
 
  pop %edx
  pop %ecx
